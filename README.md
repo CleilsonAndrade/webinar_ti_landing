@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Webinar TI Landing</h1>
   <p>Landing page de um evento fictício, que foi desenvolvida para fins de estudo sobre responsividade utilizando a propriedade flex do CSS.</p>
-  <img src="./design/desktop.png" alt="Logo" width="800">
+  <img src="./design/desktop.gif" alt="Logo" width="800">
 </div>
 
 # 📒 Índice
